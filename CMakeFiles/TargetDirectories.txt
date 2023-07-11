@@ -1,0 +1,7 @@
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/dfa_minim.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/edit_cache.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/rebuild_cache.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/list_install_components.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/install.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/install/local.dir
+/home/igor/Igo/Formal/dfa_minim/CMakeFiles/install/strip.dir
